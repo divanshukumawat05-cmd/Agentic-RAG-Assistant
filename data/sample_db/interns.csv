@@ -1,0 +1,33 @@
+Intern_ID,Name,Email,Department,Project,Mentor,Attendance,Leaves,Performance,Status,Joining_Date,Completion_Date
+INT001,Aarav Sharma,aarav.sharma@northstartech.com,Data Science,Knowledge Graph Platform,Dr. Neha Rao,96%,1,Excellent,Completed,2025-01-10,2025-06-30
+INT002,Meera Nair,meera.nair@northstartech.com,Software Engineering,Customer Support Bot,Mr. Kunal Verma,93%,2,Good,Completed,2025-01-12,2025-06-28
+INT003,Rohan Gupta,rohan.gupta@northstartech.com,HR Analytics,Recruitment Insights Portal,Ms. Priya Menon,91%,3,Satisfactory,Completed,2025-01-15,2025-06-25
+INT004,Sanjana Iyer,sanjana.iyer@northstartech.com,Product Management,Feature Prioritization Dashboard,Dr. Vivek Sethi,94%,1,Excellent,Completed,2025-01-20,2025-06-30
+INT005,Aditya Rao,aditya.rao@northstartech.com,Cloud Infrastructure,Deployment Automation Tool,Mr. Arjun Das,89%,4,Good,Active,2025-02-01,
+INT006,Kavya Menon,kavya.menon@northstartech.com,Data Science,Sales Forecasting Model,Dr. Neha Rao,95%,2,Excellent,Completed,2025-02-03,2025-07-01
+INT007,Nikhil Bhatia,nikhil.bhatia@northstartech.com,Finance,Expense Analytics Module,Ms. Radhika Shah,90%,3,Satisfactory,Active,2025-02-05,
+INT008,Divya Kapoor,divya.kapoor@northstartech.com,Operations,Warehouse Optimization App,Mr. Saurabh Jain,92%,2,Good,Completed,2025-02-08,2025-06-24
+INT009,Pranav Joshi,pranav.joshi@northstartech.com,Software Engineering,API Gateway Monitoring,Mr. Kunal Verma,88%,5,Needs Improvement,Extended,2025-02-10,
+INT010,Ananya Desai,ananya.desai@northstartech.com,Research,Materials Testing Assistant,Dr. Maya Iyer,97%,1,Excellent,Completed,2025-02-12,2025-06-29
+INT011,Shruti Nair,shruti.nair@northstartech.com,Data Science,Customer Segmentation Engine,Dr. Neha Rao,94%,2,Good,Completed,2025-02-15,2025-06-26
+INT012,Harshit Malhotra,harshit.malhotra@northstartech.com,Cloud Infrastructure,Infrastructure Cost Dashboard,Mr. Arjun Das,87%,4,Satisfactory,Active,2025-02-18,
+INT013,Tanvi Patil,tanvi.patil@northstartech.com,HR Analytics,Employee Engagement Study,Ms. Priya Menon,96%,1,Excellent,Completed,2025-02-20,2025-06-27
+INT014,Mayank Verma,mayank.verma@northstartech.com,Product Management,User Journey Analytics,Dr. Vivek Sethi,90%,3,Good,Extended,2025-02-22,
+INT015,Simran Kaur,simrxan.kaur@northstartech.com,Software Engineering,Document Search Assistant,Mr. Kunal Verma,92%,2,Excellent,Completed,2025-02-25,2025-06-30
+INT016,Aditi Choudhary,aditi.choudhary@northstartech.com,Operations,Inventory Forecasting Tool,Mr. Saurabh Jain,91%,2,Good,Active,2025-03-01,
+INT017,Viraj Kulkarni,viraj.kulkarni@northstartech.com,Data Science,Real-Time Fraud Detector,Dr. Neha Rao,95%,1,Excellent,Completed,2025-03-03,2025-06-25
+INT018,Shreya Bansal,shreya.bansal@northstartech.com,Finance,Budget Variance Report,Ms. Radhika Shah,89%,4,Satisfactory,Active,2025-03-05,
+INT019,Raghav Singh,raghav.singh@northstartech.com,Cloud Infrastructure,Monitoring Alert Pipeline,Mr. Arjun Das,93%,2,Good,Completed,2025-03-07,2025-06-28
+INT020,Priyal Joshi,priyal.joshi@northstartech.com,Research,Prototype Evaluation System,Dr. Maya Iyer,94%,2,Excellent,Completed,2025-03-10,2025-06-29
+INT021,Yash Agarwal,yash.agarwal@northstartech.com,Software Engineering,ETL Performance Optimizer,Mr. Kunal Verma,90%,3,Good,Active,2025-03-12,
+INT022,Ishita Sharma,ishita.sharma@northstartech.com,Product Management,Subscription Churn Study,Dr. Vivek Sethi,92%,1,Excellent,Completed,2025-03-15,2025-06-24
+INT023,Devansh Tiwari,devansh.tiwari@northstartech.com,Operations,Logistics Route Planner,Mr. Saurabh Jain,88%,5,Satisfactory,Extended,2025-03-18,
+INT024,Ankita Rao,ankita.rao@northstartech.com,HR Analytics,Onboarding Experience Review,Ms. Priya Menon,95%,2,Good,Completed,2025-03-20,2025-06-30
+INT025,Kunal Patel,kunal.patel@northstartech.com,Data Science,Pricing Recommendation Engine,Dr. Neha Rao,91%,3,Good,Active,2025-03-22,
+INT026,Neha Joshi,neha.joshi@northstartech.com,Finance,Payment Reconciliation Tool,Ms. Radhika Shah,96%,1,Excellent,Completed,2025-03-25,2025-06-26
+INT027,Abhishek Sen,abhishek.sen@northstartech.com,Research,Experiment Data Pipeline,Dr. Maya Iyer,89%,4,Satisfactory,Active,2025-03-27,
+INT028,Parth Yadav,parth.yadav@northstartech.com,Cloud Infrastructure,Server Health Dashboard,Mr. Arjun Das,94%,2,Good,Completed,2025-03-29,2025-06-27
+INT029,Khushi Sinha,khushi.sinha@northstartech.com,Product Management,Mobile App Feedback Analyzer,Dr. Vivek Sethi,93%,2,Excellent,Completed,2025-03-31,2025-06-29
+INT030,Omkar Deshmukh,omkar.deshmukh@northstartech.com,Software Engineering,Microservices Observability Tool,Mr. Kunal Verma,90%,3,Good,Active,2025-04-02,
+INT031,Saumya Pillai,saumya.pillai@northstartech.com,Operations,Vendor Scorecard Portal,Mr. Saurabh Jain,92%,2,Excellent,Completed,2025-04-05,2025-06-30
+INT032,Manan Bedi,manan.bedi@northstartech.com,Data Science,Enterprise Search Assistant,Dr. Neha Rao,91%,3,Good,Active,2025-04-07,
