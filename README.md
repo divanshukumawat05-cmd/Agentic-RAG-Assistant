@@ -16,6 +16,22 @@ The application includes a Streamlit chat interface, Gemini 2.5 Flash for respon
 - Streamlit chat UI with persistent session chat history
 - Modular source structure for agents, routing, RAG, database access, and utilities
 
+## Recent Updates
+
+The project now features a premium AI experience with significant UI/UX enhancements:
+
+- **Premium Futuristic UI**: Dark theme with blue gradient accents and glassmorphism effects
+- **ChatGPT-Style Chat Bubbles**: User and assistant messages with distinct styling and animations
+- **Compact Responsive Layout**: Mobile-optimized message layout with responsive grid system
+- **AI Thinking Timeline**: Professional multi-agent router visualization displaying the complete workflow
+- **Intelligent Router Visualization**: Floating glass card showing all 6 steps (Understanding → Router → Agent Selection → Knowledge Base Search → Response Generation → Ready)
+- **Active Agent Indicator**: Dynamic display of which agent (HR, Technical, or Project) is processing the query
+- **Streaming Assistant Responses**: Smooth word-by-word response streaming animation
+- **Improved Response Metadata**: Accurate backend execution time, agent identification, and generation timestamp
+- **Suggested Follow-up Questions**: Context-aware question suggestions based on the active agent with one-click submission
+- **Enhanced Animations**: Smooth fade transitions, scale effects, hover glows, and pulse animations throughout the UI
+- **Glassmorphism Design**: Modern frosted glass aesthetic with backdrop blur effects and soft shadows
+
 ## Architecture Diagram
 
 ```text
