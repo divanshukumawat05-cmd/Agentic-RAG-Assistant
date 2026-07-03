@@ -220,6 +220,6 @@ M.Sc. Data Science
 
 Amity University Rajasthan
 
-GitHub: (Add your GitHub profile here)
+GitHub: divanshukumawat05-cmd
 
-LinkedIn: (Add your LinkedIn profile here)
+LinkedIn: https://www.linkedin.com/in/divanshu-kumawat-0b92073b1/
